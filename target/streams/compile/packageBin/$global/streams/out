@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/raja/IdeaProjects/revenue-contribution/target/scala-2.12/revenue-contribution_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/adp/revenue/contribution[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/raja/IdeaProjects/revenue-contribution/target/scala-2.12/classes/com/adp/revenue/contribution[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/raja/IdeaProjects/revenue-contribution/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/adp/revenue/contribution/RevenueContribution$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/raja/IdeaProjects/revenue-contribution/target/scala-2.12/classes/com/adp/revenue/contribution/RevenueContribution$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/adp/revenue[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/raja/IdeaProjects/revenue-contribution/target/scala-2.12/classes/com/adp/revenue[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/adp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/raja/IdeaProjects/revenue-contribution/target/scala-2.12/classes/com/adp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/adp/revenue/contribution/RevenueContribution.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/raja/IdeaProjects/revenue-contribution/target/scala-2.12/classes/com/adp/revenue/contribution/RevenueContribution.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
