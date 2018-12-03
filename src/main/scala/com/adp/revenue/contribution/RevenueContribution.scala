@@ -31,8 +31,8 @@ object RevenueContribution {
     if(item.indexOf("\"\"country\"\"") == -1 || item.indexOf("\"\", \"\"region\"\"") == -1) "" else item.substring(item.indexOf("\"\"country\"\"")+15,item.indexOf("\"\", \"\"region\"\""))
   }
 
-  def getTransactionRevenue(item : String) : String = {
-    if(item.indexOf("transactionRevenue") == -1 || item.indexOf("\"\", \"\"newVisits") == -1) "" else item.substring(item.indexOf("transactionRevenue")+24,item.indexOf("\"\", \"\"newVisits"))
+  def getTransactionRevenue(item : String) : Long = {
+    if(item.indexOf("transactionRevenue") == -1 || item.indexOf("\"\", \"\"newVisits") == -1) 0 else item.substring(item.indexOf("transactionRevenue")+24,item.indexOf("\"\", \"\"newVisits")).toLong
   }
 
 }
